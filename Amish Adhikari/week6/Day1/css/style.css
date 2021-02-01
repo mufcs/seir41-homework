@@ -1,0 +1,15 @@
+#retain {
+  background-color: #4CAF50;
+  border: bold;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+}
+
+input {
+  width: 12%;
+}
