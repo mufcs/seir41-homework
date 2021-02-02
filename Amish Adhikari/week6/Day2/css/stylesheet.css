@@ -1,0 +1,37 @@
+#top {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 1em;
+  color: #8f1805;
+  background-color: black;
+}
+
+#search-form {
+  margin-left: 60em;
+  border: bold;
+  padding: 5px;
+  text-align: center;
+}
+
+#details {
+  height: 30px;
+  width: 60%;
+}
+
+#search {
+  height: 30px;
+  width: 20%;
+  color: black;
+  font-size: 20px;
+  font-style: bold;
+  background-color: #8f1805;
+}
+
+#search:hover{
+  background-color: white;
+}
+
+#all {
+  text-align: center;
+  color: #8f1805;
+}
